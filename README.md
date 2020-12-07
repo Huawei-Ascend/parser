@@ -20,7 +20,7 @@ Parser支持由源码编译，进行源码编译前，首先确保你有昇腾91
 #### 下载源码
 
 ```
-git clone https://gitee.com/ascend/parser.git
+git clone https://github.com/Huawei-Ascend/parser.git
 cd parser
 git submodule init && git submodule update
 ```
