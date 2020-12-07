@@ -21,7 +21,7 @@ parser支持源码编译，进行源码编译前，首先确保你有昇腾910AI
 
 ```
 git clone --recursive 
-https://gitee.com/ascend/parser.git -b development
+https://github.com/Huawei-Ascend/parser.git -b development
 cd parser
 chmod +x build.sh
 ```
